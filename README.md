@@ -3,6 +3,12 @@ Node.js command line tool that displays the history of qiita's one-year posts.
 
 # Get stared
 
+Install dependencies
+
+```
+yarn
+```
+
 Set your qiita api key to .env.
 [(To get api key)](https://qiita.com/api/v2/docs#%E8%AA%8D%E8%A8%BC%E8%AA%8D%E5%8F%AF)
 ```
